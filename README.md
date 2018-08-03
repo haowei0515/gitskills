@@ -6,3 +6,4 @@ test conflict
 =======
 test conflict
 >>>>>>> feature
+test close fast forward
